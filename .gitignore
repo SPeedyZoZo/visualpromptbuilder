@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+/build
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
