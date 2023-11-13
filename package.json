@@ -18,5 +18,13 @@
   "homepage": "https://github.com/SPeedyZoZo/visualpromptbuilder#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }  
 }
